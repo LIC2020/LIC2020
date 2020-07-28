@@ -4,7 +4,7 @@
 
 [2020语言与智能技术竞赛：机器阅读理解任务](https://aistudio.baidu.com/aistudio/competition/detail/28?isFromCcf=true)
 
-![background](/Users/liuaiting/Desktop/LIC2020/fig/background.png)
+![background](fig/background.png)
 
 # 数据说明
 
